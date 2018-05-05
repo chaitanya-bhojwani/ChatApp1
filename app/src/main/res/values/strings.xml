@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatApp1</string>
+    <string name="input_placeholder">Type a message</string>
+</resources>
